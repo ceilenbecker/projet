@@ -24,7 +24,7 @@ else {
 	$studentInfos = $sth->fetch();
 }
 
-
+echo "string";
 // VIEW
 require 'views/header.php';
 require 'views/student.php';
