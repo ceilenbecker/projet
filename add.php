@@ -4,15 +4,12 @@
 $citiesList = array(
 	1 => 'Esch-sur-Alzette',
 	2 => 'Verdun',
-	3 => 'Luxembourg',
 	4 => 'Metz',
 	5 => 'Differdange',
 	6 => 'Rosport',
 	7 => 'Bascharage',
 	8 => 'Clervaux',
 	10 => 'Strasbourg',
-	11 => 'Nancy',
-	18 => 'Thionville',
 	19 => 'Machin City',
 );
 $countriesList = array(
