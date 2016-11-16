@@ -1,0 +1,9 @@
+#maxsize {
+	max-width: 1200px;
+	margin:auto;
+	background-color: grey
+}
+html{
+	background-color: white;
+	color:white;
+}
